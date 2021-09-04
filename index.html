@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-dark">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrapの読み込み -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <!-- fontawesome -->
+    <link href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    
+    <title>🍔 Clicker Empire Game</title>
+</head>
+
+<body>
+    <div class="vh-100 d-flex flex-column justify-content-center align-items-center" style="max-height: 748px;">
+        <!-- ログインページ -->
+        <div id="loginPage" class="d-flex loginPage align-items-center justify-content-center">
+            <div>
+                <div id="username" class="d-flex flex-column login-box text-center align-items-center justify-content-center">
+                    <h2>Clicker Empire Game</h2>
+                    <input requrired name="username" type="text" class="form-control text-center w-75 mt-3" placeholder="Your name">
+                    <div class="d-flex flex-row mt-1">
+                        <button id="new" class="btn btn-primary btn-sm login-btn">New</button>
+                        <button id="login" class="btn btn-outline-primary btn-sm login-btn text-primary bg-white">Login</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- メインページ -->
+        <div id="mainPage"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
+

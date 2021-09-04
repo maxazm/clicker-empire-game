@@ -1,0 +1,92 @@
+*, *:before, *:after { 
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Futura!important;
+    letter-spacing: 0.02em!important;
+    background: url(https://images.unsplash.com/photo-1472577938094-84871b72ccac?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80) center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-white {
+    color: white;
+}
+
+.bg-lightNavy {
+    background-color: rgb(59, 69, 104);
+}
+
+.login-box {
+    background-color: white;
+    height: 220px;
+    width: 400px;
+}
+
+.login-btn{
+    width: 120px;
+    height: 40px;
+    margin: 17px;
+}
+
+.loginPage {
+    height: 500px;
+    width: 100%;
+}
+
+.mainPage{
+    min-height: 750px;
+    width: 100%;
+}
+
+.w-90{
+    width: 98%;
+}
+
+.h-90{
+    height: 97%;
+}
+
+.content-box-Left {
+    width: 65%; 
+    height: 92%;
+}
+
+.burger-img:hover {
+    filter: brightness(85%);
+}
+
+.burger-img:active {
+    filter: brightness(100%);
+    transform: scale(1.05);
+}
+
+.rightCon {
+    width: 100%;
+    min-height: 600px;
+}
+
+.info-box {
+    width: 48.5%;
+    height: 42%;
+}
+
+#itemBox{
+    overflow: scroll!important;
+    min-height: 580px;
+    width: 50rem;
+}
+
+.img-size {
+    height: 170px;
+    width: 250px;
+}
+
+#itemBox .btn:hover {
+    border: 1px solid aqua;
+    outline-offset: 0px;
+}
+
+
+
