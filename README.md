@@ -12,6 +12,8 @@
 
 <h2>URL</h2>
 <p>https://clicker-empire-game-six.vercel.app/</p>
+<img width="1440" alt="スクリーンショット 2021-09-05 1 50 26" src="https://user-images.githubusercontent.com/66771141/132102437-ee0670a7-e755-43d3-98b8-f7c3ec741116.png">
+
 
 <h2>遊び方</h2>
 
