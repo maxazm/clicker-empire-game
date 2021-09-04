@@ -31,7 +31,7 @@ The goal of this game is to become a billionare and to build an empire. You are 
 <p>1. New user can create your account by entering your name and push "New", if you've already played this game and saved you account before, you can login by entering the same name and push "login".</p>
 <p>2. You own 50,000yen at the beggining and you can increase your money by clicking humberger, upgrading items, purchasing real states and investment items.</p>
 <p>3. If you wnat to save your data, please click save button at the bottom(right-hand side).</p>
-<p>4. In case you've already saved your data but restart the game, please click reset button at the bottom(left-hand side).</p>
+<p>4. In case you've already saved your data but you want to restart the game, please click reset button at the bottom(left-hand side).</p>
 <p>5. Enjoy the game!</p>
 
 
